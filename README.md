@@ -1,4 +1,4 @@
-# object-detection-yolov3
+# Object Detection using YOLO V3
 
 https://www.spritle.com/blogs/2019/12/20/real-time-custom-object-detection-using-tiny-yolov3-and-opencv/
 
